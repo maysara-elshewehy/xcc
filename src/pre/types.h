@@ -6,11 +6,11 @@
      *
      * @author      Maysara Elshewehy (maysara.elshewehy@gmail.com)
      *
-     * @version     1.0.0
+     * @version     0.0.3
      *
-     * @date        2023-05-23
+     * @date        2018-05-23
      *
-     * @copyright   Copyright (c) 2023 - xeerx
+     * @copyright   Copyright (c) 2018 - xeerx
      *
      * @see         docs/pre/types.md
     */
